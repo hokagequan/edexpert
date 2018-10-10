@@ -1,0 +1,6 @@
+.float-top {
+	position: absolute;
+	top: 5px;
+	right: 80px;
+	z-index: 99;
+}
