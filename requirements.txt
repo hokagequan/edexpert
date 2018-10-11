@@ -1,0 +1,4 @@
+closure==20180204
+Django==2.1.2
+psycopg2==2.7.5
+pytz==2018.5
